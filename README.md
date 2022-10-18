@@ -1,1 +1,1 @@
-# githib_profile_viewer.github.io
+# github_profile_viewer.github.io
