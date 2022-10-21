@@ -10,6 +10,9 @@
   font-family: 'Titillium Web', sans-serif;
   
 }
+h1{
+  font-size: 55px;
+}
 
 body {
   display: flex;
